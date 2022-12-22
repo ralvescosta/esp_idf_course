@@ -43,28 +43,35 @@ alias get_idf = '. $HOME/esp/esp-idf-v5.0/export.sh'
 
 ### IDF Common commands
 
-- Setup the board for the project:
+- **Setup the board for the project:**
 
 ```
 idf.py set-target esp32
 ```
 
-- Configure the sdkconfig file using the menuconfig
+- **Configure the sdkconfig file using the menuconfig:**
 
 ```
 idf.py menuconfig
 ```
 
-- Build the application
+- **Build the application:**
 
 ```
 idf.py build
 ```
 
-- Flash onto the device
+- **Flash onto the device:**
 
 ```
 idf.py -p PORT flash
 ```
 
 the PORT for Linux could be: /dev/ttyUSB0, /dev/ttyUSB1, /dev/ttyUSB2 ...
+
+
+- **To connect to the serial monitor:**
+
+```
+idf.py -p PORT monitor
+```
