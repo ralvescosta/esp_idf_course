@@ -41,6 +41,12 @@ Today the best option to setup the environment with IDF is using the VSCode exte
 alias get_idf = '. $HOME/esp/esp-idf-v5.0/export.sh'
 ```
 
+clone esp-idf-libs inside your esp root folder 
+
+```bash
+git clone https://github.com/UncleRus/esp-idf-lib.git $HOME/esp/esp-idf-lib
+```
+
 ### IDF Common commands
 
 - **Setup the board for the project:**
