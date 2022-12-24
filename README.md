@@ -13,9 +13,9 @@ This repository contains the application developed during the course [IoT Applic
 - [x] Setup IDF project
 - [x] FreeRTOS
 - [x] IDF Error Handling
-- [] Best practices for embedded software
-- [] IDF Components and sensores library
-- [] Simple RGB Application
+- [x] Best practices for embedded software
+- [x] IDF Components and sensores library
+- [x] Simple RGB Application
 - [] WiFi Application
 - [] ESP HTTP Server
 - [] OTA
