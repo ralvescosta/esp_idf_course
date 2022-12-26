@@ -1,6 +1,8 @@
 {
   "files.associations": {
     "stdbool.h": "c",
-    "freertos.h": "c"
+    "freertos.h": "c",
+    "esp_err.h": "c",
+    "event_groups.h": "c"
   }
 }
