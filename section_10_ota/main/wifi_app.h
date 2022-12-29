@@ -6,7 +6,7 @@
 #define MAIN_WIFI_APP_H_
 
 #include "freertos/FreeRTOS.h"
-
+#include "esp_wifi.h"
 #include "esp_netif.h"
 
 // WiFi application settings

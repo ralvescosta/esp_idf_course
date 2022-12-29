@@ -16,11 +16,11 @@ This repository contains the application developed during the course [IoT Applic
 - [x] Best practices for embedded software
 - [x] IDF Components and sensores library
 - [x] Simple RGB Application
-- [] WiFi Application
-- [] ESP HTTP Server
-- [] OTA
-- [] DHT22 Sensor (Temperature and humidity)
-- [] WiFi Manager
+- [x] WiFi Application
+- [x] ESP HTTP Server
+- [x] OTA
+- [x] DHT22 Sensor (Temperature and humidity)
+- [x] WiFi Manager
 - [] Non Volatile Storage (NVS)
 - [] Interrupt and Semaphore
 - [] Time synchronization

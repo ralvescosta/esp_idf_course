@@ -3,6 +3,8 @@
     "stdbool.h": "c",
     "freertos.h": "c",
     "esp_err.h": "c",
-    "event_groups.h": "c"
+    "event_groups.h": "c",
+    "esp_wifi.h": "c",
+    "esp_netif.h": "c"
   }
 }
