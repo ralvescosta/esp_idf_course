@@ -24,8 +24,8 @@ This repository contains the application developed during the course [IoT Applic
 - [x] Non Volatile Storage (NVS)
 - [x] Interrupt and Semaphore
 - [x] Time synchronization
-- [] AWS IoT MQTT
-- [] AWS mTLS
+- [x] AWS IoT MQTT
+- [x] AWS mTLS
 - [] AWS Security
 - [] AWS OTA Update by MQTT
 
