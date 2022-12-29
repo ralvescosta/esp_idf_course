@@ -22,7 +22,7 @@ This repository contains the application developed during the course [IoT Applic
 - [x] DHT22 Sensor (Temperature and humidity)
 - [x] WiFi Manager
 - [x] Non Volatile Storage (NVS)
-- [] Interrupt and Semaphore
+- [x] Interrupt and Semaphore
 - [] Time synchronization
 - [] AWS IoT MQTT
 - [] AWS mTLS
