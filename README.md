@@ -23,7 +23,7 @@ This repository contains the application developed during the course [IoT Applic
 - [x] WiFi Manager
 - [x] Non Volatile Storage (NVS)
 - [x] Interrupt and Semaphore
-- [] Time synchronization
+- [x] Time synchronization
 - [] AWS IoT MQTT
 - [] AWS mTLS
 - [] AWS Security
